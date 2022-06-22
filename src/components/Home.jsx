@@ -1,5 +1,7 @@
 import React from "react";
 import "../home.css";
+import FlipMove from "react-flip-move";
+
 import Product from "./Product";
 function Home() {
   return (
